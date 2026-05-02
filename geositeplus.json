@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_regex": [
+        "shiki.cafe|monika.love|coolhub.top|zhixue.com|zxxk.com|queniuiq.com|sharepoint.com|shidianguji.com|ptable.com|coolapk.com|pep.com|icloud.com|163.com|jleea.com.cn|haofenshu.com|bili(video|cdn(1|2)).com|grpc.biliapi.net|api.(live.)?bilibili.com|border-qd-broadcast.chat.biliapi.(net|com)|bilivideo.com.ctdns.cn|otp.landian.vip|dnse(0|1|2).com|(smtp|imap).qq.com|disroot.org"
+      ],
+      "invert": false
+    }
+  ]
+}
